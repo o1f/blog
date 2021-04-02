@@ -23,7 +23,7 @@ date: 2020-01-01 00:00:00
 
 效果不错,`Mrakdown`语法本来就简单直观,还有`Git`管理,直接提交推送了.
 
-构建部署就交个[vercel.com]了,访问速度挺快了,比`GitHub Pages`要好得多嗷.
+构建部署就交个<vercel.com>了,访问速度挺快了,比`GitHub Pages`要好得多嗷.
 
 ## 关于bref
 
