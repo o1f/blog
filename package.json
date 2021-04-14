@@ -22,7 +22,10 @@
     "upyun": "^3.3.8"
   },
   "scripts": {
-    "dev": "hexo server -p $PORT",
-    "build": "hexo generate"
+    "新文章": "hexo new post 待编辑 ",
+    "预览": "hexo server -p $PORT",
+    "生成": "hexo generate",
+    "部署": "hexo generate --deploy",
+    "部署plus": "hexo clean && hexo generate --deploy"
   }
 }
