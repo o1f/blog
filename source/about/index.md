@@ -15,7 +15,11 @@ date: 2020-01-01 00:00:00
 
 博客构建使用的是 HEXO , 教程看这里: [传送门](https://note.yfun.top/p/simply-build-your-hexo-blog/)
 
-博客主题: [Chic](https://github.com/Siricee/hexo-theme-Chic)
+博客主题: [Cactus](https://github.com/probberechts/hexo-theme-cactus)
+
+曾用主题:
+
+* [Chic](https://github.com/Siricee/hexo-theme-Chic)
 
 本来想使用[Hexoplusplus](https://github.com/HexoPlusPlus/HexoPlusPlus)做后端的,
 
@@ -39,4 +43,4 @@ date: 2020-01-01 00:00:00
 
 关于`life`字段,一直没想怎么翻译好,站点叫过总而言之,是生活/总而言之,好好生活等等,就前几天,在逛电商找流量卡,看到了丰子恺的一本书,《万般滋味,皆是生活》,就确定下来了站点名称 `总而言之,皆是生活.`,看来以后还是要多读些书呀.
 
-![](https://developer-forum-online.cdn.bcebos.com/23abd7f2-9b87-448e-bc04-4e75132fd332.png)
+![](https://cdn.uzz5.com/imgs/2021/04/26/9yXnxLqL.webp)
